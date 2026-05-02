@@ -1,8 +1,5 @@
 # Rin Blog Client
 
-<p align="center">
-  <img src="https://pic1.imgdb.cn/item/69f6255abd91a69b7b942d5a.png" width="200" alt="Rin Blog Client"/>
-</p>
 
 <p align="center">
   一个基于 Flutter 的 Rin 博客安卓客户端
