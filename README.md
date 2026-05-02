@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://github.com/openRin/Rin">原项目 Rin</a> ·
-  <a href="https://github.com/openRin/Rin/releases">下载 APK</a>
 </p>
 
 ---
